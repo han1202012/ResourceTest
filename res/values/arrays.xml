@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name = "color_array">
+        <item>@color/black</item>
+        <item>@color/green</item>
+        <item>@color/red</item>
+        <item>@color/yellow</item>
+    </array>
+    
+    <string-array name = "string_array">
+        <item>三星</item>
+        <item>小米</item>
+        <item>苹果</item>
+    </string-array>
+    
+    <integer-array name = "integer_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </integer-array>
+</resources>
